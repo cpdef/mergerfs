@@ -16,6 +16,9 @@ mergerfs -o&lt;options&gt; &lt;branches&gt; &lt;mountpoint&gt;
 
 **mergerfs** is a union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices. It is similar to **mhddfs**, **unionfs**, and **aufs**.
 
+# INDEX
+
+[Features](#FEATURES)
 
 # FEATURES
 
